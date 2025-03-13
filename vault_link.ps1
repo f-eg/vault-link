@@ -10,7 +10,7 @@ write-host @"
  |     | |   _   ||       ||       |  |   |  |   | |       ||   | | | |   ||    _  |
   |___|  |__| |__||_______||_______|  |___|  |___| |_______||___| |_|  |__||___| |_|
 
-credits to tksh164 aumid stopgap tools (i made this script for the noobs :p)
+credits to tksh164 aumid stopgap tools ( made this script for the noobs - f_eg )
 		(create separate vault links!! they even separate in the taskbar :o)
 "@
 write-host "`n    enter to continue..." -foregroundcolor red -nonewline
