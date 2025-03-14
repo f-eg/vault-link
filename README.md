@@ -1,1 +1,1 @@
-[[<iframe width="560" height="315" src="https://www.youtube.com/embed/Xk6XjVrkaH0?si=6WN9NSaR2Zue6ajJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://youtu.be/Xk6XjVrkaH0)](https://youtu.be/Xk6XjVrkaH0)
+[![showcase](https://img.youtube.com/vi/Xk6XjVrkaH0/1.jpg)](https://www.youtube.com/watch?v=Xk6XjVrkaH0)
